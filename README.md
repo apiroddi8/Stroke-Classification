@@ -2,7 +2,7 @@ Tale progetto è stato sviluppato nell’ambito del laboratorio di Big Data ed �
 
 È possibile visionare il progetto ed il report anche su Google Drive al seguente link: https://drive.google.com/drive/folders/1J0MxpK_KzfL4haCVDAzY55ibbiZvDK6t?usp=sharing
 
-Docente: Giuliamo Armano
+Docente: Giuliano Armano
 
 Autore: Alessandro Piroddi
 
