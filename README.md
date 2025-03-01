@@ -1,6 +1,7 @@
-Tale progetto è stato sviluppato nell’ambito del laboratorio di Big Data ed è incentrato sulla classificazione dell’insorgenza di ictus nei pazienti utilizzando diversi modelli di Machine Learning. L’analisi è stata condotta sullo Stroke Prediction Dataset, disponibile su Kaggle, e ha previsto un’ampia fase di pulizia e pre-elaborazione dei dati, oltre all’applicazione di tecniche avanzate per il bilanciamento delle classi e l’ottimizzazione dei modelli predittivi.
+Tale progetto è stato sviluppato nell’ambito del laboratorio di Big Data ed è incentrato sulla classificazione dell’insorgenza di ictus nei pazienti utilizzando diversi modelli di Machine Learning. L’analisi è stata condotta sullo Stroke Prediction Dataset, disponibile su [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset).
+, e ha previsto un’ampia fase di pulizia e pre-elaborazione dei dati, oltre all’applicazione di tecniche avanzate per il bilanciamento delle classi e l’ottimizzazione dei modelli predittivi.
 
-È possibile visionare il progetto ed il report anche su Google Drive al seguente link: https://drive.google.com/drive/folders/1J0MxpK_KzfL4haCVDAzY55ibbiZvDK6t?usp=sharing
+È possibile visionare il progetto ed il report anche su Google Drive al seguente [link](https://drive.google.com/drive/folders/1J0MxpK_KzfL4haCVDAzY55ibbiZvDK6t?usp=sharing)
 
 Docente: Giuliano Armano
 
